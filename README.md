@@ -44,7 +44,9 @@ The dashboard is designed in **4 pages**:
 -   Gender Distribution\
 -   Visuals: KPI Cards + Pie Chart
 
-![Page1](images/page1.png)
+![DashBoard 1]<img width="1287" height="739" alt="DashBoard 1" src="https://github.com/user-attachments/assets/4ecc659a-5d8f-4c6f-866c-3075bcf4d28c" />
+
+
 
 ------------------------------------------------------------------------
 
@@ -55,7 +57,8 @@ The dashboard is designed in **4 pages**:
 -   Column Chart (Study Time vs Scores)\
 -   Stacked Bar (Absences vs Performance)
 
-![Page2](images/page2.png)
+![DashBoard 2]<img width="1252" height="720" alt="DashBoard 2" src="https://github.com/user-attachments/assets/de8e35d7-d47c-4748-840f-fc5d6aba6157" />
+
 
 ------------------------------------------------------------------------
 
@@ -65,7 +68,8 @@ The dashboard is designed in **4 pages**:
 -   Line/Combo Chart for Trend\
 -   Box Plot for Score Spread
 
-![Page3](images/page3.png)
+![DashBoard 3]<img width="1242" height="738" alt="DashBoard 3" src="https://github.com/user-attachments/assets/3d11847e-98fd-4111-bbcf-94b29542ab4a" />
+
 
 ------------------------------------------------------------------------
 
@@ -75,7 +79,8 @@ The dashboard is designed in **4 pages**:
 -   Bar Chart (Study Time vs Scores)\
 -   Scatter Plot (Attendance vs Performance)
 
-![Page4](images/page4.png)
+![DashBoard 4]<img width="1297" height="738" alt="DashBoard 4" src="https://github.com/user-attachments/assets/31ebcf9d-a9f7-4112-a937-e6c41ad6e8c3" />
+
 
 ------------------------------------------------------------------------
 
